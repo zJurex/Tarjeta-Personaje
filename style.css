@@ -4,8 +4,8 @@
     background-color: rgb(48, 126, 199);
     border-radius: 30px;
     place-items: center;
-    /*Sombra 82 Modificada*/
-    box-shadow: rgb(99, 99, 99) 0px 88px 280px 16px;
+    /*Sombra 82*/
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
     
 
 }
